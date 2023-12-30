@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ATHA ANGGORO ARYAGUNA</h1>
 <h3 align="center">I am a student who wants to be in front - end development</h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="Gif" width="1000" height="500" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="Gif" width="500" height="200" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athaanggoro10&label=Profile%20views&color=0e75b6&style=flat" alt="athaanggoro10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athaanggoro10&label=Profile%20views&color0e75b6&style=flat" alt="athaanggoro10" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -27,8 +27,8 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athaanggoro10&show_icons=true&locale=en&layout=compact" alt="athaanggoro10" width="350" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athaanggoro10&show_icons=true&locale=en&layout=compact" alt="athaanggoro10" width="350" height="155" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athaanggoro10&show_icons=true&locale=en" alt="athaanggoro10" width="350" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=athaanggoro10&show_icons=true&locale=en" alt="athaanggoro10" width="350" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=athaanggoro10&" alt="athaanggoro10" width="350" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=athaanggoro10&" alt="athaanggoro10" width="350" height="157" /></p>
