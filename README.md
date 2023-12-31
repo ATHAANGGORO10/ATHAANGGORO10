@@ -4,7 +4,8 @@
 <h3 align="left">I am a student who wants to be in front - end development</h3>
 <p align="justify">I studied at SMK PGRI 2 TAMAN I, majored in PPLG (Game Software Programming). When I first got to know the world of IT, my friend told me about making applications, websites and games. And he taught me how to code correctly and how to write lines of code. Yes... I thought I would learn programming for 1 year but it will be 2 years because the new year will be coming soon. I decided to choose Front - End Development. It's just that my current obstacle is the feeling of laziness that haunts me every day and at night there is no opportunity to create new things because my energy is drained.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athaanggoro10&label=Profile%20views&color0e75b6&style=flat" alt="athaanggoro10" /> </p>
+![](https://komarev.com/ghpvc/?username=athaanggoro10&color=green)
+[![wakatime](https://wakatime.com/badge/user/55ee414b-8417-43e7-b4ad-53abd3e2836f.svg)](https://wakatime.com/@55ee414b-8417-43e7-b4ad-53abd3e2836f)
 
 - 🌱 I’m currently learning **JavaScript**
 
