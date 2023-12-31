@@ -12,9 +12,10 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50"/>
+<img src="https://webed.netlify.app/public/img/tailwind-icon.png" alt="tailwind" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
-<img src="https://pbs.twimg.com/profile_images/591283245658087424/pjZmiCk-_400x400.png" alt="bootstrap" width="40"/> </p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"/> 
+<img src="https://pbs.twimg.com/profile_images/591283245658087424/pjZmiCk-_400x400.png" alt="bootstrap" width="40"/>
+<img src="https://cdn-user-icons.flaticon.com/110388/110388682/1704020856168.svg?token=exp=1704021825~hmac=af12e17ac2f5274062bcdccd1bf14c88" alt="figma" width="40"/> 
+</p>
