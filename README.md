@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Website Statis & Dinamis**
+- 💬 Ask me about **| Website Statis & Dinamis**
 
 - 📫 How to reach me **atha.anggoro2019gmail.com**
 
