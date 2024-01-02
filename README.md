@@ -11,7 +11,6 @@
 - 💬 Ask me about **| Website Statis & Dinamis**
 
 - 📫 How to reach me **atha.anggoro2019gmail.com**
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40"/> 
@@ -20,6 +19,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
 <img src="https://pbs.twimg.com/profile_images/591283245658087424/pjZmiCk-_400x400.png" alt="bootstrap" width="40"/>
 <img src="https://cdn-user-icons.flaticon.com/110388/110388682/1704020856168.svg?token=exp=1704021825~hmac=af12e17ac2f5274062bcdccd1bf14c88" alt="figma" width="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40"/>
 </p>
 
 <h2 align="left">Extension VScode Tools:</h2>
@@ -30,4 +31,3 @@ Auto Rename Tag | Error Lens | Live Server | Live Server Five | Live Preview | P
 <p align="justify">
 This extension helped me in working on a project, why are there so many Live Servers? I don't know, I suggest using Live Server Five. He worked faster and had a story to fix our code.  
 </p>
-
