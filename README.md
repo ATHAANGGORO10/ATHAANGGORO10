@@ -16,7 +16,7 @@
 - 📫 How to reach me **atha.anggoro2019gmail.com**
 
 ### My GitHub Stats
-<a href="https://github.com/ATHAANGGORO10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHAANGGORO10&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ATHAANGGORO10"><img src="https://github-readme-stats.vercel.app/api?username=ATHAANGGORO10&show_icons=true&hide=prs,contribs&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="ATHAANGGORO10's GitHub stats" /></a>
 
 ### Languages and Tools
 <p align="left">
