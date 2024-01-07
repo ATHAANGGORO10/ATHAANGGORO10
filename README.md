@@ -1,7 +1,4 @@
 
-<p align="center"> <img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" alt="Gif" width="1000" height="500" /> 
-</p>
-
 <h1 align="left">Hi 👋, I'm ATHA ANGGORO ARYAGUNA</h1>
 
 <h3 align="left">I am a student who wants to be in front - end development</h3>
