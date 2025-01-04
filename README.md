@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**ATHAANGGORO10/ATHAANGGORO10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">WELCOME TO THE PAGE <a href="https://github.com/ATHAANGGORO10">ATHAANGGORO10</a></h1>
+<br>
+<p align="center">
+  Hello! My name is Atha Anggoro Aryaguna, a Developer with experience in developing websites using various modern technologies. 
+  As a developer, I focus on creating interactive, efficient, and responsive websites, with experience working on front-end development.
+</p>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,wordpress,figma,tailwindcss,php,react,laravel,mysql" alt="Skills Icons">
+</div>
