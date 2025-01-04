@@ -1,8 +1,11 @@
 <h1 align="center">WELCOME TO THE PAGE <a href="https://github.com/ATHAANGGORO10">ATHAANGGORO10</a></h1>
 <br>
-<div align="flex">
-  <img src="https://media.tenor.com/mtz3Rf-xDCIAAAAd/loli-nichijou.gif">
-  <img src="https://media.tenor.com/mtz3Rf-xDCIAAAAd/loli-nichijou.gif">
+<p align="center">
+  This is a picture of my current life situation.
+</p>
+<br>
+<div>
+  <img src="https://media.tenor.com/mtz3Rf-xDCIAAAAd/loli-nichijou.gif" width="100%" alt="Nichijou GIF">
 </div>
 <br>
 <p align="center">
